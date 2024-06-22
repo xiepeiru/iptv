@@ -138,8 +138,6 @@ http://123.146.162.24:8013/tslslive/noEX9SG/hls/live_sd.m3u8
 https://qxlmlive9.cbg.cn/applive/kzpd01/chunklist.m3u8
 #EXTINF:-1 group-title="重庆" tvg-id="垫江综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0630/smalle492e5c2fbf59943a78a2afd441fe5cc1498810366.jpg",垫江综合频道
 http://125.62.24.185:80/1.m3u8
-#EXTINF:-1 group-title="重庆" tvg-id="忠县综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0630/small6e79735514de66fb5657ab8f93ea27391498832153.jpg",忠县综合频道
-https://qxlmlive9.cbg.cn/applive/zxtv2/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="地方频道",纪实科教
