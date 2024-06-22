@@ -129,18 +129,3 @@ https://sjlivecdn9.cbg.cn/202406221614/app_2/_definst_/ls_3.stream/chunklist.m3u
 https://tvlive.ugoshop.com/ugotvlive/ssgotv.m3u8?auth_key=2312509421-0-0-6642ec3645caa943da6855a9ef7e2129
 #EXTINF:-1 tvg-id="荣昌综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0703/small557aaf1dc9baf1096d17e479c08b2e731499081843.jpg" group-title="重庆台",荣昌综合频道
 http://183.64.181.25:40023/rongchang01.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆新闻(1080p)
-rtsp://123.147.113.180:554/04000001/01000000004000000000000000000367?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆时尚生活(1080P)
-rtsp://123.147.113.180:554/04000001/01000000004000000000000000000369?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆文体娱乐(1080p)
-rtsp://123.147.113.180:554/04000001/01000000004000000000000000000370?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆影视(1080p)
-rtsp://123.147.113.180:554/04000001/01000000004000000000000000000372?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆科教(1080p)
-rtsp://123.147.113.180:554/04000001/01000000004000000000000000000373?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆少儿(1080p)
-rtsp://123.147.113.180:554/04000001/01000000004000000000000000000374?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆社会与法(1080p)
-rtsp://123.147.113.180:554/04000001/01000000004000000000000000000375?AuthInfo=xxx&userid=
