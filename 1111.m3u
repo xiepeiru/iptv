@@ -174,9 +174,7 @@ https://pi.0472.org/cbn/cqggncHD.m3u8
 https://pi.0472.org/cbn/cqseHD.m3u8
 #EXTINF:-1 tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="重庆",重庆科教
 https://pi.0472.org/cbn/CQTVkejiaoHD.m3u8
-#EXTINF:-1 tvg-name="爱看导视" tvg-logo="https://live.fanmingming.com/tv/爱看导视.png" group-title="重庆",爱看导视
-https://pi.0472.org/cbn/aikanHD.m3u8
-#EXTINF:-1 tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="重庆",重庆汽摩
+#EXTINF:-1 tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/重庆汽摩.png" group-title="重庆",重庆汽摩
 https://pi.0472.org/cbn/cqcarSD.m3u8
 #EXTINF:-1 tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="重庆",重庆移动
 https://pi.0472.org/cbn/mryyHD.m3u8
