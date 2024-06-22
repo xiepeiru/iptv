@@ -47,9 +47,9 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/1.m3u8?
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://epg.112114.xyz/logo/cctv17.png" group-title="央视频道",世界地理
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077a61f4f3/1.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-name="央视频道台球" tvg-logo="https://epg.112114.xyz/logo/cctv17.png" group-title="央视频道",央视频道台球
+#EXTINF:-1 tvg-name="央视频道台球" tvg-logo="https://epg.112114.xyz/logo/cctv17.png" group-title="央视频道",央视台球
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-name="央视频道高网" tvg-logo="https://epg.112114.xyz/logo/cctv17.png" group-title="央视频道",央视频道高网
+#EXTINF:-1 tvg-name="央视频道高网" tvg-logo="https://epg.112114.xyz/logo/cctv17.png" group-title="央视频道",高尔夫&网球
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2
 
 
