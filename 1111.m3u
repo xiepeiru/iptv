@@ -129,28 +129,3 @@ https://sjlivecdn9.cbg.cn/202406221614/app_2/_definst_/ls_3.stream/chunklist.m3u
 https://tvlive.ugoshop.com/ugotvlive/ssgotv.m3u8?auth_key=2312509421-0-0-6642ec3645caa943da6855a9ef7e2129
 #EXTINF:-1 tvg-id="荣昌综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0703/small557aaf1dc9baf1096d17e479c08b2e731499081843.jpg" group-title="重庆台",荣昌综合频道
 http://183.64.181.25:40023/rongchang01.m3u8
-
-#EXTINF:-1 tvg-id="",CQTV新闻超高清
-rtp://235.254.197.199:7980
-#EXTINF:-1 tvg-id="",重庆影视HD
-rtp://235.254.199.180:7980
-#EXTINF:-1 tvg-id="",CQTV都市超高清
-rtp://235.254.199.181:7980
-#EXTINF:-1 tvg-id="",CQTV时尚超高清
-rtp://235.254.199.182:7980
-#EXTINF:-1 tvg-id="",CQTV娱乐超高清
-rtp://235.254.199.187:7980
-#EXTINF:-1 tvg-id="",CQTV公共农村超高清
-rtp://235.254.199.186:7980
-#EXTINF:-1 tvg-id="",CQTV少儿
-rtp://235.254.197.110:7980
-#EXTINF:-1 tvg-id="",CQTV科教超高清
-rtp://235.254.199.188:7980
-#EXTINF:-1 tvg-id="",CQTV生活超高清
-rtp://235.254.199.189:7980
-#EXTINF:-1 tvg-id="6573",CQTV汽摩
-rtp://235.254.197.117:7980
-#EXTINF:-1 tvg-id="",睛彩重庆
-rtp://235.254.197.114:7980
-#EXTINF:-1 tvg-id="",CQTV手持电视
-rtp://235.254.197.115:7980
