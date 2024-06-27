@@ -145,14 +145,7 @@ https://pi.0472.org/cbn/CQTVkejiaoHD.m3u8
 https://pi.0472.org/cbn/cqcarSD.m3u8
 #EXTINF:-1 tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="重庆",重庆移动
 https://pi.0472.org/cbn/mryyHD.m3u8
-#EXTINF:-1 tvg-id="荣昌综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0703/small557aaf1dc9baf1096d17e479c08b2e731499081843.jpg" group-title="重庆",荣昌综合频道
-http://183.64.181.25:40023/rongchang01.m3u8
-#EXTINF:-1 group-title="重庆" tvg-id="万州综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0629/small658c1e2250d4a57ea9c3fe295777bfa91498719246.jpg",万州综合频道
-http://123.146.162.24:8013/tslslive/noEX9SG/hls/live_sd.m3u8
-#EXTINF:-1 group-title="重庆" tvg-id="万州三峡移民频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0629/small658c1e2250d4a57ea9c3fe295777bfa91498719246.jpg",万州三峡移民频道
-http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
-#EXTINF:-1 group-title="重庆" tvg-id="开州综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0630/small907707fc279765f3aa9d3fc1246ba6001498798618.png",开州综合频道
-https://qxlmlive9.cbg.cn/applive/kzpd01/chunklist.m3u8
+
 
 
 
