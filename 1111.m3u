@@ -204,7 +204,7 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000011/index.m3u8?
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 tvg-id="newtv精品体育" tvg-name="newtv精品体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品体育.png" group-title="数字频道",精品体育
 http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 tvg-name="newtv精品记录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NEWTV精品纪录.png" group-title="数字频道",精品记录
+#EXTINF:-1 tvg-name="newtv精品记录" tvg-logo="https://gitdl.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/NEWTV精品纪录.png" group-title="数字频道",精品记录
 http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1 tvg-name="newtv超级电视剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="数字频道",超级视剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
