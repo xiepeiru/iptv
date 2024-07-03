@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="重闻" tvg-logo="https://live.fanmingming.com/tv/重闻.png" group-title="重方",重
-https://pi.0472.org/cbn/CQTVNewsHD.m3u8
+
 
 
 #EXTINF:-1 group-title="央视频道" tvg-id="CCTV-1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1 综合
