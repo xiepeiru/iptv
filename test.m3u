@@ -4,5 +4,5 @@
 #EXTINF:-1  tvg-name=“CNN” tvg-logo="https://live.fanmingming.com/tv/CNN.png" group-title=“国际频道”,CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1  tvg-name=“娱乐新闻台” tvg-logo="https://www.123iptv.tv/tv_img/wuxiancaijingtai.jpg" group-title=“香港频道”,CNN
+#EXTINF:-1  tvg-name=“娱乐新闻台” tvg-logo="https://www.123iptv.tv/tv_img/wuxiancaijingtai.jpg" group-title=“香港频道”,娱乐新闻台
 https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
