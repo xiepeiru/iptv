@@ -99,7 +99,7 @@ rtmp://220.130.201.73/sat/tv071
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id=“ABC” tvg-name=“ABC” tvg-logo="https://gitdl.cn/https://raw.githubusercontent.com/xiepeiru/logo/main/ABC.png" group-title="国际频道",ABC
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-id=“BBC” tvg-name=“ABC” tvg-logo="https://gitdl.cn/https://raw.githubusercontent.com/xiepeiru/logo/main/BBC.png" group-title="国际频道”,BBC
+#EXTINF:-1 tvg-id=“BBC” tvg-name=“ABC” tvg-logo="https://gitdl.cn/https://raw.githubusercontent.com/xiepeiru/logo/main/BBC.png" group-title="国际频道",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 
