@@ -93,6 +93,9 @@ rtmp://f13h.mine.nu/sat/tv091
 https://stream1.freetv.fun/e7df67a1a8400d4741889391ccc7e8a2b3f623a4f19544ae0863ae2c184bbe2c.m3u8
 #EXTINF:-1 tvg-id="368558" tvg-name="台視HD" tvg-logo="https://live.fanmingming.com/tv/台视.png" group-title="台湾频道", 台视
 rtmp://220.130.201.73/sat/tv071
+#EXTINF:-1 tvg-id="大立电视台" tvg-name=大立电视台" tvg-logo="https://gitdl.cn/https://raw.githubusercontent.com/xiepeiru/logo/main/大立电视台.png" group-title="台湾频道", 大立电视台
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://live.fanmingming.com/tv/CNN.png" group-title="国际频道",CNN
